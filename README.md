@@ -34,6 +34,12 @@ so that is easy to use and install.
 
 If you're not downloading the venv make sure you install on your local python venv the requirement.txt that you can find in the Scripts folder
 
+Is also important to have all the node_modules. you can find all the modules in this link:
+- https://drive.google.com/drive/folders/1RcMuPUY3uMNFhISi5QMyTu8XuY-oFwmd?usp=share_link  
+
+
+we used the link for more easy way to import it. 
+
 
 
 1:
