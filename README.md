@@ -29,10 +29,11 @@ You can find it in Main branch here on GitHub
 
 There you can find the Create Table and all the function and procedure that you need for have a working and safe Database.
 
-For our app is really important the correct installation of python and of his library Flask, that's why you need to run a server for get the web scraping data. That's why we uploaded our venv directory at this link: https://drive.google.com/drive/folders/1-511e28Q9GTugzkz_y5iwMs4E9RJZMrp?usp=share_link
-so that is easy to use and install.
+For our app is really important the correct installation of python and of his library Flask, that's why you need to run a server for get the web scraping data. For this reason you need a local venv, we have already uploaded it on out GitHub, but you need to import all the library for runn the scripts you must run requirements.txt on Python that give you all the library that you need for run python. 
 
-If you're not downloading the venv make sure you install on your local python venv the requirement.txt that you can find in the Scripts folder
+If you have some problem with it you can download the folder of all library from here: https://drive.google.com/drive/folders/1527ESLWQhxiA1uvS6bRaFK_eNLV3RMZh?usp=share_link
+
+
 
 Is also important to have all the node_modules. you can find all the modules in this link:
 - https://drive.google.com/drive/folders/1RcMuPUY3uMNFhISi5QMyTu8XuY-oFwmd?usp=share_link  
