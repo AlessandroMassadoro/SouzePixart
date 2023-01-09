@@ -4,7 +4,7 @@ Alessandro Massadoro
 
 
 
-Hi everyone, you can find how to setup all files that you need for run SouzePixart at this link: https://drive.google.com/drive/folders/1n35DMyhH1y0rop0RotpGHpUt3ukrz3Ri?usp=share_link
+Hi everyone, you can find how to setup all files that you need for run SouzePixart on this GitHub page.
 
 This project was developed as part of the course of study in Computer Science - University of Naples PARTHENOPE and concerns the creation of a web application aimed at simulate an e-commerce like, with some data taken from webscraping.
 
@@ -28,9 +28,12 @@ Is important create the Database following this document:
 
 There you can find the Create Table and all the function and procedure that you need for have a working and safe Database.
 
-For our app is really important the correct installation of python and of his library Flask, that's why you need to run a server for get the web scraping data. That's why we uploaded our venv directory, so that is easy to use and install. if you're not downloading the venv make sure you install on your local python venv the requirement.txt
+For our app is really important the correct installation of python and of his library Flask, that's why you need to run a server for get the web scraping data. That's why we uploaded our venv directory at this link: https://drive.google.com/drive/folders/1-511e28Q9GTugzkz_y5iwMs4E9RJZMrp?usp=share_link
+so that is easy to use and install.
 
-After that setup you must follow this steps:
+If you're not downloading the venv make sure you install on your local python venv the requirement.txt that you can find in the Scripts folder
+
+
 
 1:
 
