@@ -22,7 +22,10 @@ For use our product you must have:
 
 - Oracle Localhost Database, you can easy install it following officile site procedure: https://docs.oracle.com/en/database/oracle/oracle-database/21/xeinw/installation-guide.html#GUID-C3C5B05A-3BEB-4373-96D0-80BBADFBD6A4
 
-Is important create the Database following the document - Db.pdf that you can find on main branch
+Is important create the Database following the document 
+- Db.pdf 
+
+You can find it in Main branch here on GitHub
 
 There you can find the Create Table and all the function and procedure that you need for have a working and safe Database.
 
