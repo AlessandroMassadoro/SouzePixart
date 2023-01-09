@@ -4,7 +4,7 @@ Alessandro Massadoro
 
 
 
-Hi everyone, you can find all files that you need for run SouzePixart at this link: https://drive.google.com/drive/folders/1n35DMyhH1y0rop0RotpGHpUt3ukrz3Ri?usp=share_link
+Hi everyone, you can find hot to setup right all files for run SouzePixart at this link: https://drive.google.com/drive/folders/1n35DMyhH1y0rop0RotpGHpUt3ukrz3Ri?usp=share_link
 
 This project was developed as part of the course of study in Computer Science - University of Naples PARTHENOPE and concerns the creation of a web application aimed at simulate an e-commerce like, with some data taken from webscraping.
 
